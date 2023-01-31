@@ -1,6 +1,6 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
-# Welcome to the `phoenix_decrufter` project!
+# Welcome to the `{{project-name}}` project!
 
 
 # License

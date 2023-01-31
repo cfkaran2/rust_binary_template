@@ -61,8 +61,9 @@ appointed representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement via the issue
-management tools, or via email to cem.f.karan.civ@army.mil. All complaints will
-be reviewed and investigated promptly and fairly.
+management tools, or via email to:
+  {{authors}}
+All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
